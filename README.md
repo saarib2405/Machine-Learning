@@ -61,7 +61,7 @@ jupyter
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ml-algorithms.git
+git clone https://github.com/saarib2405/Machine-Learning.git
 
 # Navigate to the project directory
 cd ml-algorithms
@@ -82,11 +82,3 @@ Each algorithm is implemented in its own Jupyter notebook. To use:
 
 ## Dataset
 The repository includes a `Datasets` folder containing various datasets used in the implementations. Each notebook specifies which dataset it uses and how to load it.
-
-## Contributing
-Feel free to contribute to this repository by:
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/new-algorithm`)
-3. Commit your changes (`git commit -m 'Add new algorithm'`)
-4. Push to the branch (`git push origin feature/new-algorithm`)
-5. Open a Pull Request
