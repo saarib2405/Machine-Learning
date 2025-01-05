@@ -1,6 +1,6 @@
 # Machine Learning Algorithms Implementation
 
-A comprehensive collection of machine learning algorithms implemented in Python using Jupyter notebooks. This repository contains implementations of various classification, regression, and clustering algorithms.
+A comprehensive collection of Machine Learning algorithms implemented in Python using Jupyter notebooks. This repository contains implementations of various classification, regression, and clustering algorithms.
 
 ## Algorithms Included
 
